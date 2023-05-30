@@ -1,0 +1,2 @@
+A project utilizing sklearn DecisionTreeClassified to predict the likelyhood of the next transaction of a returning customer amount. The data is generic and limited for use by kaggle competition competitors only.
+Link to contest: https://www.kaggle.com/competitions/santander-customer-transaction-prediction/data
