@@ -1,1 +1,1 @@
-An introductory projet most data folks know, the IRIS flower data set. We use the sklearn
+An introductory projet most data folks know, the IRIS flower data set. We use the sklearn module to load the dataset and perform the analysis with RandomForestClassifier method of sklearn.ensembles.
