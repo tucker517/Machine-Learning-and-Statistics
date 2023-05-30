@@ -1,0 +1,1 @@
+A simple GLM model using sklearn and jupter notebook. The first cells of the notebook allow a user to specify a csv of data to read in.
