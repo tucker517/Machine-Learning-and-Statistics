@@ -1,1 +1,1 @@
-A simple GLM model using sklearn and jupter notebook. The first cells of the notebook allow a user to specify a csv of data to read in.
+A simple GLM model using statsmodel in a simple jupyter notebook. You can find the modules necessary to run this project in the requirments.txt file as always.
