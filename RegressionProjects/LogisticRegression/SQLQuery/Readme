@@ -1,0 +1,1 @@
+This is a simple logistic regression model utilizing the sklearn module on a queried data set from a Microsoft SQL Server Database.
